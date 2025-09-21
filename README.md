@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alexander and I'm a HighTalk CEO, from Ukraine</h2>
+<h2 align="left">Hi 👋! My name is Alexander and I'm a HighTalk CEO, from Poland</h2>
 
 ###
 
